@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../AppSinHilos"
+		},
+		{
+			"path": "../AppConHilos2"
+		}
+	],
+	"settings": {}
+}
